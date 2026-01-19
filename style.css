@@ -43,7 +43,7 @@ a{
 }
 
 .nav{
-    background-color: #121212;
+    background-color: rgb(92, 88, 88);
     border-radius: 1rem;
     display: flex;
     flex-direction: column;
@@ -142,7 +142,7 @@ a{
 .sticky-nav{
     position: sticky;
     top: 0;
-    background-color: #121212;
+    background-color: rgb(127, 120, 120);
     display: flex;
     justify-content: space-between;
     align-items: center;
