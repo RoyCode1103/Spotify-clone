@@ -139,17 +139,6 @@ a{
     color: #fff;
 }
 
-.sticky-nav{
-    position: sticky;
-    top: 0;
-    background-color: rgb(127, 120, 120);
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-    padding: 1rem 0 1rem 0;
-    z-index: 5;
-}
-
 .sticky-nav-icons{
    margin: 0.75rem;
 }
@@ -507,7 +496,7 @@ a{
 .sticky-nav{
     position: sticky;
     top: 0;
-    background-color: #121212;
+    background-color: #232323;
     display: flex;
     justify-content: space-between;
     align-items: center;
