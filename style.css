@@ -238,7 +238,6 @@ a{
     display: flex;
     justify-content: center;
     align-items: center;
-    box-shadow: 0 10px 8px green;
 }
 
 .progress-bar{
@@ -249,7 +248,7 @@ a{
 }
 
 .progress-bar::-webkit-slider-runnable-track{
-    background-color: #ddd;
+    background-color: #cae7b3;
     border-radius: 100px;
     height: 0.2rem;
 }
