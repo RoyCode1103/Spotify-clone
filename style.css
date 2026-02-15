@@ -496,7 +496,7 @@ a{
 .sticky-nav{
     position: sticky;
     top: 0;
-    background-color: rgba(156, 155, 150,);
+    background-color: rgba(156, 155, 155,);
     display: flex;
     justify-content: space-between;
     align-items: center;
